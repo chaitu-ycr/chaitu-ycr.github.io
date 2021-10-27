@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @chaitanya-ycr -aka software and system tester 😛
-- 👀 I’m interested in Python scripting and Tools automation
-- 🌱 I’m currently using Python for Automation and Tools developement
-- 💞️ I’m looking to collaborate on Python automation
-- 📫 How to reach me --> chaitu.ycr@gmail.com
+- 🌱 I’m currently using Python 🐍 for Automation testing and Tools developement
+- 💞️ I’m looking to collaborate on Python 🐍 automation projects and Automotive 🚗 related projects
 
-### Want to connect with me 👇
+### Want to connect/know about me 👇
+👉🏽 📑 [LinkedIn](https://www.linkedin.com/in/chaitanya-ycr/) <br>
+👉🏽 📧 [Gmail](chaitu.ycr@gmail.com)
 
 <!---
 chaitanya-ycr/chaitanya-ycr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
