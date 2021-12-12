@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @chaitanya-ycr -aka software and system tester 😛
 - 🌱 I’m using Python 🐍 for Automation. I would love 💞️ to collaborate on Python 🐍 automation projects and Automotive 🚗 related projects
 
-### Want to connect/know about me 👇
-👉🏽 📑 [LinkedIn](https://www.linkedin.com/in/chaitanya-ycr/) <br>
+### Want to connect 🤝 me on [linkedIn click here](https://www.linkedin.com/in/chaitanya-ycr/) 👈<br>
 
 ## Python Q & A
-### 1. swapping two numbers
+### 1. swapping two numbers 👇
 ```python
 a, b = 11, 22
 print(f'values before swapping a={a}, b={b}')
