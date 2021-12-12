@@ -4,7 +4,15 @@
 
 ### Want to connect/know about me 👇
 👉🏽 📑 [LinkedIn](https://www.linkedin.com/in/chaitanya-ycr/) <br>
-👉🏽 📧 [Gmail](chaitu.ycr@gmail.com)
+
+## Python Q&A
+### 1. swapping two numbers
+```python
+a, b = 11, 22
+print(f'values before swapping a={a}, b={b}')
+a, b = b, a
+print(f'values after swapping a={a}, b={b}')
+```
 
 <!---
 chaitanya-ycr/chaitanya-ycr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
