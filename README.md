@@ -11,7 +11,7 @@ print(f'values before swapping a={a}, b={b}')
 a, b = b, a
 print(f'values after swapping a={a}, b={b}')
 ```
-### 2. create simple gui using 'PySimpleGUI' library
+### 2. create simple gui using 'PySimpleGUI' library 👇
 ```python
 import PySimpleGUI as sg
 layout = [  [sg.Text('Some text on Row 1')],
@@ -33,3 +33,4 @@ window.close()
 chaitanya-ycr/chaitanya-ycr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+### Want to connect 🤝 me on [linkedIn click here](https://www.linkedin.com/in/chaitanya-ycr/) 👈<br>
