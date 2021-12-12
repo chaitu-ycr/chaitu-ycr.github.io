@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chaitanya-ycr -aka software and system tester 😛
-- 🌱 I’m currently using Python 🐍 for Automation testing and Tools developement
+- 🌱 I’m currently using Python 🐍 for Automation and Tools developement
 - 💞️ I’m looking to collaborate on Python 🐍 automation projects and Automotive 🚗 related projects
 
 ### Want to connect/know about me 👇
