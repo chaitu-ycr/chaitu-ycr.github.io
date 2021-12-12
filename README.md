@@ -5,7 +5,7 @@
 ### Want to connect/know about me 👇
 👉🏽 📑 [LinkedIn](https://www.linkedin.com/in/chaitanya-ycr/) <br>
 
-## Python Q&A
+## Python Q & A
 ### 1. swapping two numbers
 ```python
 a, b = 11, 22
