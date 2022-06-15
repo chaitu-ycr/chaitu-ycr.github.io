@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @chaitanya-ycr -aka software and system tester 😛
+- 👋 Hi, I’m @chaitanya -aka software and system tester 😛
 - 🌱 I’m using Python 🐍 for Automation. I would love 💞️ to collaborate on Python 🐍 automation projects and Automotive 🚗 related projects
 
-### Want to connect 🤝 me on [linkedIn click here](https://www.linkedin.com/in/chaitanya-ycr/) 👈<br>
+### Want to connect 🤝 me on [linkedIn click here](https://www.linkedin.com/in/chaitu-ycr/) 👈<br>
 
 ## Python Q & A
 ### 1. swapping two numbers 👇
@@ -33,4 +33,4 @@ window.close()
 chaitanya-ycr/chaitanya-ycr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### Want to connect 🤝 me on [linkedIn click here](https://www.linkedin.com/in/chaitanya-ycr/) 👈<br>
+### Want to connect 🤝 me on [linkedIn click here](https://www.linkedin.com/in/chaitu-ycr/) 👈<br>
