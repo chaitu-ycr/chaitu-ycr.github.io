@@ -1,17 +1,13 @@
-- 👋 Hi, I’m @chaitanya -aka software and system tester 😛
+- 👋 Hi, I’m @chaitanya -aka software and system Engineer 😛
 - 🌱 I’m using Python 🐍 for Automation. I would love 💞️ to collaborate on Python 🐍 automation projects and Automotive 🚗 related projects
 
-### Want to connect 🤝 me on [linkedIn click here](https://www.linkedin.com/in/chaitu-ycr/) 👈<br>
+### [click here](https://www.linkedin.com/in/chaitu-ycr/) 👈 to connect 🤝 with me on LinkedIn <br>
+
+### My Active Project GitHub opensource Projects:
+*. [py_canoe](https://github.com/chaitu-ycr/py_canoe)
 
 ## Python Q & A
-### 1. swapping two numbers 👇
-```python
-a, b = 11, 22
-print(f'values before swapping a={a}, b={b}')
-a, b = b, a
-print(f'values after swapping a={a}, b={b}')
-```
-### 2. create simple gui using 'PySimpleGUI' library 👇
+### 1. create simple gui using 'PySimpleGUI' library 👇
 ```python
 import PySimpleGUI as sg
 layout = [  [sg.Text('Some text on Row 1')],
@@ -30,7 +26,7 @@ window.close()
 ```
 
 <!---
-chaitanya-ycr/chaitanya-ycr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+chaitu-ycr/chaitu-ycr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### Want to connect 🤝 me on [linkedIn click here](https://www.linkedin.com/in/chaitu-ycr/) 👈<br>
+### [click here](https://www.linkedin.com/in/chaitu-ycr/) 👈 to connect 🤝 with me on LinkedIn <br>
