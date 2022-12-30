@@ -3,8 +3,8 @@
 
 ### [click here](https://www.linkedin.com/in/chaitu-ycr/) 👈 to connect 🤝 with me on LinkedIn <br>
 
-### My Active Project GitHub opensource Projects:
-*. [py_canoe](https://github.com/chaitu-ycr/py_canoe)
+### My Active GitHub opensource Projects:
+- [py_canoe](https://github.com/chaitu-ycr/py_canoe)
 
 ## Python Q & A
 ### 1. create simple gui using 'PySimpleGUI' library 👇
