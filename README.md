@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ✨chaitanya✨ [@chaitu-ycr](https://github.com/chaitu-ycr) -aka software and system Engineer 😎
 - 🌱 I’m using Python 🐍 for Automation. I would love 💞️ to collaborate on Python 🐍 automation projects and Automotive 🚗 related projects
 
-### To connect 🤝 with me on LinkedIn [click here](https://www.linkedin.com/in/chaitu-ycr/) 👈
+To connect 🤝 with me on LinkedIn [click here](https://www.linkedin.com/in/chaitu-ycr/) 👈
 
 ### My Active GitHub opensource Projects:
 - [py_canoe](https://github.com/chaitu-ycr/py_canoe)
