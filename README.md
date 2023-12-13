@@ -4,7 +4,7 @@
 - 👉 Python 🐍 programming helped me to create tools. Past 4 years i am in love 💞️ with programming ✍
 - 👉 Because of my love in python 🐍 programming ✍, i created [py_canoe](https://github.com/chaitu-ycr/py_canoe) package and hosted in GitHub
 - 👉 To Automate software integration work flows i use Jenkins
-- 👉 Testing & Automation Enthusiast | Driving Efficiency & Quality
+- 👉 Testing & Automation Enthusiast who Drives Efficiency & Quality
 - 👉 Passionate about Automotive 🚗 Software & Systems
 
 Follow me on LinkedIn 👉 [click here](https://www.linkedin.com/in/chaitu-ycr/) 👈
