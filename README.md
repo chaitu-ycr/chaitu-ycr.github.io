@@ -11,7 +11,8 @@ Follow me on LinkedIn 👉 [click here](https://www.linkedin.com/in/chaitu-ycr/)
 
 My open source GitHub repositories 👉 [click here](https://github.com/chaitu-ycr?tab=repositories) 👈
 
-### My Active GitHub Projects:
+My GitHub Projects:
+
 - [py_canoe](https://github.com/chaitu-ycr/py_canoe)
 - Want to contribute 📢 to [py_canoe](https://github.com/chaitu-ycr/py_canoe) project ? [fork repo](https://github.com/chaitu-ycr/py_canoe/fork) & create pull request with your implementation
 - some of my learning 🤓 notes 📗 are maintained here 👉 [learning_notes](https://github.com/chaitu-ycr/learning_notes)
