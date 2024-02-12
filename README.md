@@ -15,7 +15,7 @@ My GitHub Projects:
 
 - [py_canoe](https://github.com/chaitu-ycr/py_canoe)
 - [py_canalyzer](https://github.com/chaitu-ycr/py_canalyzer)
-- some of my learning 🤓 notes 📗 are maintained here 👉 [learning_notes](https://github.com/chaitu-ycr/learning_notes)
+- [learning_notes](https://github.com/chaitu-ycr/learning_notes) 👈 here iam maintining some of my learning 🤓 notes 📗
 
 <!---
 chaitu-ycr/chaitu-ycr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
