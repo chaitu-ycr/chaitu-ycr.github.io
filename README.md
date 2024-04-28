@@ -16,5 +16,7 @@ My Active GitHub Projects:
 - [learning_notes](https://github.com/chaitu-ycr/learning_notes) 👈 here iam maintaining some of my learning 🤓 notes 📗
 
 📣 Follow me on LinkedIn 👉 [click here](https://www.linkedin.com/in/chaitu-ycr/) 👈
+<br>
 📣 Subscribe me on YouTube ▶️ 👉 [visit channel here](https://www.youtube.com/@chaitu-ycr) 👈
+<br>
 📣 Follow me on GitHub 👉 [click here](https://github.com/chaitu-ycr) 👈
