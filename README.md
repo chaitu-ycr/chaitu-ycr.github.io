@@ -41,41 +41,6 @@
 - Nov 2013 - Jul 2015
     - ABS Hardware and Software Testing
 
-### software integration and test workflow
-
-```mermaid
-graph LR
-A[Push Code] --> B{GitHub}
-B --> C{Jenkins triggers build and test jobs}
-C --> |Success| D{Unit Tests}
-C --> |Failure| E{Fix Build & Retry}
-D --> |Pass| F{Integration Tests}
-D --> |Fail| G{Debug Unit Tests & Fix}
-F --> |Pass| H{Deploy to Test Environment}
-F --> |Fail| I{Debug Integration Tests & Fix}
-H --> J{Automated Tests}
-J --> |Pass| K{Merge to Main Branch}
-J --> |Fail| L{Debug Automated Tests & Fix}
-K --> M{Monitor Production}
-L --> E
-```
-
-### software/system testing workflow
-
-```mermaid
-graph LR
-A[Requirements Gathering] --> B{Develop Test Cases}
-B --> |Manual| C{Manual Testing}
-B -->|Automated| D{Automated Testing}
-C & D --> E{Defect Logging}
-E -->|Fixed| B
-E -->|Not Fixed| F{Review Requirements & Test Cases}
-F -->|Update Required| B
-F -->|No Update Required| G{Test Report & Sign-off}
-G -->|Approved| H{Release}
-G -->|Not Approved| B
-```
-
 ## Professional Certifications
 
 - ISTQB Foundation Level
@@ -92,5 +57,11 @@ G -->|Not Approved| B
 
 ---
 
-| [LinkedIn](https://www.linkedin.com/in/chaitu-ycr/) | [GitHub](https://github.com/chaitu-ycr) | [YouTube ▶️](https://www.youtube.com/@chaitu-ycr) | [Google](https://www.google.com/search?q=chaitu-ycr) |
-|---------|---------|---------|---------|
+[LinkedIn](https://www.linkedin.com/in/chaitu-ycr/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[GitHub](https://github.com/chaitu-ycr)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[YouTube ▶️](https://www.youtube.com/@chaitu-ycr)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Google](https://www.google.com/search?q=chaitu-ycr)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
