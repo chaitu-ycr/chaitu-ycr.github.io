@@ -9,22 +9,22 @@
 
 ## Domains
 
-- `🚘 ADAS - Advanced Driver Assistance Systems`
-- `🔋 Battery Management System`
-- `🎨 Instrument Cluster`
-- `🛑 Braking`
+- 🚘 ADAS - Advanced Driver Assistance Systems
+- 🔋 BMS - Battery Management System & 🌟 Energy Management System (iEMS)
+- 🎨 IPC - Instrument Panel Cluster
+- 🛑 ABS - Anti-lock Braking System
 
 ## Expertise
 
-- `🕵 software & system test`
-- `🔄 Software Integration`
-- `🤖 Automation`
+- 🕵 software & system test
+- 🔄 Software Integration
+- 🤖 Automation
 
 ## Skills
 
-- Scripting: `🐍 Python`, `Vector CAPL`
-- Software Tools: `Vector 🛶 CANoe`, `Git`, `Jenkins`
-- Protocols: `CAN`, `Ethernet 🌐`, `UDS`, `DoIP`
+- Scripting: 🐍 Python, Vector CAPL
+- Software Tools: Vector 🛶 CANoe, Git, Jenkins
+- Protocols: CAN, Ethernet 🌐, UDS, DoIP
 
 ## Education
 
