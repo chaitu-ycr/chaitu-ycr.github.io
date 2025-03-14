@@ -76,7 +76,7 @@
 
 <img src="https://github.com/user-attachments/assets/f6025bc4-f097-437e-97c2-bc6dadeee349" alt="bmc_qr" width="200" height="200">
 
-## Support Financially for creating more such content
+## Support Financially for creating more content
 
 <img src="https://github.com/user-attachments/assets/c94b19e4-1142-4e1d-92cd-f189bbbb1cf3" alt="PhonePeQR" width="200" height="200">
 
