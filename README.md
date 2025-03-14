@@ -72,11 +72,13 @@
   - 📚 [vector_tool_notes](https://github.com/chaitu-ycr/vector_tool_notes)
 - All GitHub repositories created by me [🔗 click here](https://github.com/chaitu-ycr?tab=repositories)
 
-## BuyMeACoffee
+## Support me for creating more content
+
+### BuyMeACoffee
 
 <img src="https://raw.githubusercontent.com/chaitu-ycr/chaitu-ycr.github.io/950ca46084458245512b24a68ea4fd258f1e9cd0/data/qr_images/bmc_qr.png" alt="bmc_qr" width="200" height="200">
 
-## Support Financially for creating more content
+### UPI
 
 <img src="https://raw.githubusercontent.com/chaitu-ycr/chaitu-ycr.github.io/950ca46084458245512b24a68ea4fd258f1e9cd0/data/qr_images/PhonePeQR.png" alt="PhonePeQR" width="200" height="200">
 
