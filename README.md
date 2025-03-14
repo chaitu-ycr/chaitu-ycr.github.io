@@ -65,11 +65,10 @@
 ## My open source GitHub Projects
 
 - [py_canoe](https://github.com/chaitu-ycr/py_canoe)
-- [py_canalyzer](https://github.com/chaitu-ycr/py_canalyzer)
 - here 👇 i am maintaining some of my learnings 🤓 📗
-  - 📚 [git_notes](https://github.com/chaitu-ycr/git_notes)
-  - 📚 [yaml_notes](https://github.com/chaitu-ycr/yaml_notes)
-  - 📚 [python_notes](https://github.com/chaitu-ycr/python_notes)
+  - 📚 [git_notes](https://chaitu-ycr.github.io/git_notes/)
+  - 📚 [yaml_notes](https://chaitu-ycr.github.io/yaml_notes/)
+  - 📚 [python_notes](https://chaitu-ycr.github.io/python_notes/)
   - 📚 [vector_tool_notes](https://github.com/chaitu-ycr/vector_tool_notes)
 - All GitHub repositories created by me [🔗 click here](https://github.com/chaitu-ycr?tab=repositories)
 
