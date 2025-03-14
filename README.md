@@ -73,8 +73,11 @@
   - 📚 [vector_tool_notes](https://github.com/chaitu-ycr/vector_tool_notes)
 - All GitHub repositories created by me [🔗 click here](https://github.com/chaitu-ycr?tab=repositories)
 
----
+## BuyMeACoffee
+![bmc_qr](https://github.com/user-attachments/assets/f6025bc4-f097-437e-97c2-bc6dadeee349)
 
+---
+[BuyMeACoffee](https://buymeacoffee.com/chaitu.ycr)
 [LinkedIn](https://www.linkedin.com/in/chaitu-ycr/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [GitHub](https://github.com/chaitu-ycr)
