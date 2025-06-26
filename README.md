@@ -3,64 +3,82 @@
 👋 Hi, I'm ✨[Chaitanya Reddy](https://www.linkedin.com/in/chaitu-ycr/)✨
 
 - I'm a full-time 🚗 automotive software/system tester and integrator
-- developed 🔧 tools and 🧰 packages with Python, including [py_canoe](https://github.com/chaitu-ycr/py_canoe) & [py_canalyzer](https://github.com/chaitu-ycr/py_canalyzer)
+- developed 🔧 tools and 🧰 packages with Python, including [py_canoe](https://github.com/chaitu-ycr/py_canoe)
 - streamlined software/system test & integration workflows with jenkins/github actions 🚀
 - transformed boring 🥱 tasks into efficient processes
 
-## Domains
-
-- ADAS 🚘 Advanced Driver Assistance Systems
-- BMS 🔋 Battery Management System & iEMS 🌟 intelligent Energy Management System
-- IPC 🎨 Instrument Panel Cluster
-- ABS 🛑 Anti-lock Braking System
-
 ## Expertise
 
-- 🕵 software/system test
-- 🔄 software integration
-- 🤖 automation
+```mermaid
+mindmap
+  Expertise((🧑‍🔬))
+    SoftwareSystemTest["🕵 software/system test"]
+    SoftwareIntegration["🔄 software integration"]
+    Automation["🤖 automation"]
+```
 
 ## Skills
 
-- scripting
-  - 🐍 python
-  - vector CAPL
-- software tools
-  - vector 🛶 CANoe
-  - jenkins
-  - git
-- protocols
-  - CAN
-  - UDS
-  - DoIP
-  - ethernet 🌐
+```mermaid
+mindmap
+  Skills((🤹💡))
+    Scripting
+      Python["🐍 Python"]
+      VectorCAPL["Vector CAPL"]
+    Software_Tools
+      CANoe["Vector 🛶 CANoe"]
+      Jenkins
+      Git
+    Protocols
+      CAN
+      UDS
+      DoIP
+      Ethernet["Ethernet 🌐"]
+```
+
+## Worked on below Automotive Domains
+
+```mermaid
+mindmap
+  🚘🚗
+    ADAS
+      ComprehensiveEnvironmentModel
+      MultifunctionCamera
+      RearViewCamera
+    BMS
+      BatteryManagementSystem
+    iEMS
+      intelligentEnergyManagementSystem
+    IPC
+      InstrumentPanelCluster
+    ABS
+      AntiLockBrakingSystem
+```
+
+## Professional Experience
+
+```mermaid
+mindmap
+  Experience((🏃‍➡️))
+    Algo_Software_Developer["Algo Software Developer (Jan 2023 - Present)"]
+    Algo_Software_Integrator["Algo Software Integrator (Jan 2023 - Present)"]
+    Multifunction_Camera_Software_Testing["Multifunction Camera Software Testing (Jan 2021 - Dec 2022)"]
+    Radar_Software_Testing["Radar Software Testing (Jan 2021 - Dec 2022)"]
+    Rear_Camera_Software_Testing["Rear Camera Software Testing (Jul 2019 - Dec 2020)"]
+    BMS_Testing["Battery Management System Testing (Nov 2016 - Jul 2019)"]
+    iEMS_Testing["Intelligent Energy Management System Testing (Nov 2016 - Jul 2019)"]
+    Instrument_Panel_Cluster_System_Testing["Instrument Panel Cluster System Testing (Jul 2015 - Oct 2016)"]
+    ABS_Hardware_and_Software_Testing["ABS Hardware and Software Testing (Nov 2013 - Jul 2015)"]
+```
+
+## Professional Certifications 📜
+
+- ISTQB Foundation Level
 
 ## Education
 
 - 2019 - 2013:
   - 🎓 Bachelor Of Technology in Electronics and Communication Engineering
-
-## Professional Experience
-
-- Jan 2023 - Present
-  - 👨‍💻 Algo Software Developer
-  - 🔄 Algo Software Integrator
-- Jan 2021 - Dec 2022
-  - 🕵️‍♂️ Multifunction 📷 Camera Software Testing
-  - 🕵️‍♂️ Radar 📡 Software Testing
-- Jul 2019 - Dec 2020
-  - 🕵️‍♂️ Rear 📷 Camera Software Testing
-- Nov 2016 - Jul 2019
-  - 🕵️‍♂️ Battery 🔋 Management System (BMS) Testing
-  - 🕵️‍♂️ Intelligent 🌟 Energy Management System (iEMS) Testing
-- Jul 2015 - Oct 2016
-  - 🕵️‍♂️ Instrument Panel Cluster System Testing
-- Nov 2013 - Jul 2015
-  - 🕵️‍♂️ ABS 🛑 Hardware and Software Testing
-
-## Professional Certifications 📜
-
-- ISTQB Foundation Level
 
 ## My open source GitHub Projects
 
@@ -72,15 +90,7 @@
   - 📚 [vector_tool_notes](https://github.com/chaitu-ycr/vector_tool_notes)
 - All GitHub repositories created by me [🔗 click here](https://github.com/chaitu-ycr?tab=repositories)
 
-## Support me for creating more content
-
-| **BuyMeACoffee**                                                                 | **UPI**                                                                 |
-|----------------------------------------------------------------------------------|------------------------------------------------------------------------|
-| <img src="https://raw.githubusercontent.com/chaitu-ycr/chaitu-ycr.github.io/950ca46084458245512b24a68ea4fd258f1e9cd0/data/qr_images/bmc_qr.png" alt="bmc_qr" width="200" height="200"> | <img src="https://raw.githubusercontent.com/chaitu-ycr/chaitu-ycr.github.io/950ca46084458245512b24a68ea4fd258f1e9cd0/data/qr_images/PhonePeQR.png" alt="PhonePeQR" width="200" height="200"> |
-
 ---
-[BuyMeACoffee](https://buymeacoffee.com/chaitu.ycr)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [LinkedIn](https://www.linkedin.com/in/chaitu-ycr/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [GitHub](https://github.com/chaitu-ycr)
