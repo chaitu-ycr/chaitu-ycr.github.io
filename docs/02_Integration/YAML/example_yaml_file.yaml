@@ -1,0 +1,82 @@
+---
+topic: About Solar System
+age: 4.6 # 4.6 billion years
+
+# Planets
+no_of_major_planets: 8
+planets:
+  - Mercury
+  - Venus
+  - Earth
+  - Mars
+  - Jupiter
+  - Saturn
+  - Uranus
+  - Neptune
+
+# Dwarf Planets
+no_of_dwarf_planets: 5
+dwarf_planets:
+  - Ceres
+  - Pluto
+  - Haumea
+  - Makemake
+  - Eris
+
+# Facts
+you_are_on_earth: true
+moon_rotates_around_earth: true # normalized to boolean
+
+# Numeric Representations
+hex: 0x1234
+octal: 0o1234
+
+# Null Values (all equivalent)
+null_value: null
+
+# Special Floating Point Values
+positive_infinity: .inf
+negative_infinity: -.inf
+not_a_number: .nan
+
+---
+# Date and Time Formats
+standard_date_format: 2024-12-01
+full_date_time_format: 2024-12-01T10:30:60Z
+india_standard_time: 2024-12-01T10:30:60+05:30
+japan_standard_time: 2024-12-01T10:30:60+09:00
+central_european_time: 2024-12-01 10:30:60 +1
+
+---
+# String Representations
+plain_string: This is a plain string
+single_quoted_string: 'This is a single-quoted string'
+double_quoted_string: "This is a double-quoted string"
+
+# Block Scalars
+literal: |
+  This is a multi-line string.
+  Line breaks are preserved.
+
+literal_keep: |+
+  This is a literal block scalar.
+  Newlines are preserved.
+
+literal_strip: |-
+  This is a literal block scalar.
+  Newlines are preserved.
+
+folded: >
+  This is a multi-line string.
+  Line breaks are converted to spaces.
+
+folded_keep: >+
+  This is a folded block scalar.
+  Newlines are converted to spaces.
+
+folded_strip: >-
+  This is a folded block scalar.
+  Newlines are converted to spaces.
+
+# Escaped Characters
+escaped_string: "This is a string with a newline character\nand a tab character\t."
