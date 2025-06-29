@@ -3,8 +3,8 @@
 👋 Hi, I'm ✨[Chaitanya Reddy](https://www.linkedin.com/in/chaitu-ycr/)✨
 
 - I'm a full-time 🚗 automotive software/system tester and integrator
-- developed 🔧 tools and 🧰 packages with Python, including [py_canoe](https://github.com/chaitu-ycr/py_canoe)
-- streamlined software/system test & integration workflows with jenkins/github actions 🚀
+- developed 🔧 tools and 🧰 packages using Python
+- streamlined software/system test & integration workflows using jenkins/github actions 🚀
 - transformed boring 🥱 tasks into efficient processes
 
 ## Expertise
@@ -82,12 +82,15 @@ mindmap
 
 ## My open source GitHub Projects
 
-- [py_canoe](https://github.com/chaitu-ycr/py_canoe)
-- here 👇 i am maintaining some of my learnings 🤓 📗
-  - 📚 [git_notes](https://chaitu-ycr.github.io/git_notes/)
-  - 📚 [yaml_notes](https://chaitu-ycr.github.io/yaml_notes/)
-  - 📚 [python_notes](https://chaitu-ycr.github.io/python_notes/)
-  - 📚 [vector_tool_notes](https://github.com/chaitu-ycr/vector_tool_notes)
+- [py_canoe](https://github.com/chaitu-ycr/py_canoe.git)
+- [py_canalyzer](https://github.com/chaitu-ycr/py_canalyzer.git)
+- [can_log_analyzer](https://github.com/chaitu-ycr/can_log_analyzer.git)
+- [canmatrix_webapp](https://github.com/chaitu-ycr/canmatrix_webapp.git)
+- [tenma_ps](https://github.com/chaitu-ycr/tenma_ps.git)
+- [hid_usb_relay](https://github.com/chaitu-ycr/hid_usb_relay.git)
+- [kmtronic_usb_relay](https://github.com/chaitu-ycr/kmtronic_usb_relay.git)
+- [py_clocks](https://github.com/chaitu-ycr/py_clocks.git)
+- I am maintaining some of my learnings 🤓 📗 here 👉 [🔗 chaitu-ycr/docs](https://github.com/chaitu-ycr/chaitu-ycr/tree/main/docs)
 - All GitHub repositories created by me [🔗 click here](https://github.com/chaitu-ycr?tab=repositories)
 
 ---
