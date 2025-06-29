@@ -2,8 +2,6 @@
 
 Functions are reusable blocks of code that perform specific tasks. They promote modularity, readability, and maintainability by encapsulating logic into well-defined units.
 
----
-
 ## 📝 What is a Function?
 
 A **function** is a named section of a program that performs a specific task. Functions help you:
@@ -11,8 +9,6 @@ A **function** is a named section of a program that performs a specific task. Fu
 - Avoid code repetition
 - Organize code logically
 - Make code easier to test and maintain
-
----
 
 ## 🛠️ Defining a Function
 
@@ -33,8 +29,6 @@ def function_name(parameters):
 | `"""Docstring"""`   | (Optional) Description of the function      |
 | Function body       | The code block that runs when called        |
 
----
-
 ## 🧑‍💻 Calling a Function
 
 Call a function by its name and provide any required arguments in parentheses:
@@ -42,8 +36,6 @@ Call a function by its name and provide any required arguments in parentheses:
 ```python
 function_name(arguments)
 ```
-
----
 
 ## 🧩 Function Arguments
 
@@ -72,8 +64,6 @@ greet()                    # Default: Output Hello, World!
 greet("Alice")             # Output Hello, Alice!
 ```
 
----
-
 ## 🧵 Variable-length Arguments
 
 Use `*args` for variable positional arguments and `**kwargs` for variable keyword arguments.
@@ -88,8 +78,6 @@ print_args(1, 2, 3, a=4, b=5)
 # Positional: (1, 2, 3)
 # Keyword: {'a': 4, 'b': 5}
 ```
-
----
 
 ## 🔄 Return Values
 
@@ -109,8 +97,6 @@ def no_return():
 print(no_return())  # Output: None
 ```
 
----
-
 ## 👋 Example: Greeting Function
 
 ```python
@@ -122,8 +108,6 @@ greet("chaitu-ycr")
 greet("Bob")
 greet("Charlie")
 ```
-
----
 
 ## 🧰 More Examples
 
@@ -147,8 +131,6 @@ def apply(func, value):
 print(apply(str.upper, "hello"))  # Output: HELLO
 ```
 
----
-
 ## 🏆 Best Practices
 
 - Break down complex problems into smaller, well-defined functions.
@@ -157,8 +139,6 @@ print(apply(str.upper, "hello"))  # Output: HELLO
 - Use default arguments for optional parameters.
 - Keep functions focused on a single task.
 - Avoid side effects unless necessary.
-
----
 
 ## 🗝️ Key Points
 

@@ -1,7 +1,5 @@
 # 🐍 Python Introduction
 
----
-
 ## 1. 👋 Hello World
 
 | Step | Description |
@@ -14,8 +12,6 @@
 ```python
 print("Hello World !")
 ```
-
----
 
 ## 2. 📝 Python Syntax & Structure
 
@@ -54,8 +50,6 @@ spanning several lines.
 """
 ```
 
----
-
 ## 3. 🔑 Keywords
 
 | Group        | Examples |
@@ -69,8 +63,6 @@ spanning several lines.
 
 > **Note:** Keywords cannot be used as variable names.
 
----
-
 ## 4. 📦 Built-in Types
 
 | Category         | Types                                     |
@@ -82,8 +74,6 @@ spanning several lines.
 | Binary Sequence  | `bytes`, `bytearray`, `memoryview`        |
 | Set              | `set`, `frozenset`                        |
 | Mapping          | `dict`                                    |
-
----
 
 ## 5. 🔢 Operators
 
@@ -188,8 +178,6 @@ print(0xFF >> 1)
 - Logical OR `or`
 - Assignment `=`, `+=`, `-=`, etc.
 
----
-
 ## 6. 📦 Variables
 
 Variables are named containers for storing data.
@@ -229,8 +217,6 @@ graph TD
     A --> D[Module]
 ```
 
----
-
 ## 7. 🎛️ User Input
 
 - Use `input("prompt")` to get user input (always returns a string).
@@ -251,8 +237,6 @@ except ValueError:
     print("Invalid input: Please enter a number.")
 ```
 
----
-
 ## 8. 🔀 Control Flow (Overview)
 
 | Statement | Purpose |
@@ -268,8 +252,6 @@ else:
     print("Minor")
 ```
 
----
-
 ## 9. 🧩 Functions (Overview)
 
 - Define with `def` keyword.
@@ -284,8 +266,6 @@ else:
 def greet(name):
     return f"Hello, {name}!"
 ```
-
----
 
 ## 10. 📦 Modules & Packages (Overview)
 

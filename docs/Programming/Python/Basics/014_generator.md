@@ -2,15 +2,11 @@
 
 Generators are a powerful and memory-efficient way to create iterators in Python. They yield values one at a time, making them ideal for large datasets or infinite sequences.
 
----
-
 ## 🤔 What Are Generators?
 
 - Special functions that return an **iterator object**.
 - Use the `yield` statement to produce a series of values, pausing and resuming their state as needed.
 - Defined using `def` and `yield`.
-
----
 
 ## 🛠️ Creating a Generator
 
@@ -36,8 +32,6 @@ for num in count_up_to(3):
     print(num)  # 1, 2, 3
 ```
 
----
-
 ## 🆚 Regular Functions vs Generator Functions
 
 | Feature                | Regular Function           | Generator Function           |
@@ -47,8 +41,6 @@ for num in count_up_to(3):
 | State retention        | No                        | Yes, between yields         |
 | Memory usage           | Stores all values         | Generates values on demand  |
 
----
-
 ## 💡 Benefits of Generators
 
 - **Memory Efficiency:** Do not store all values in memory at once.
@@ -56,16 +48,12 @@ for num in count_up_to(3):
 - **Conciseness:** Generator expressions offer a compact way to create iterators.
 - **Infinite Sequences:** Can represent infinite or very large sequences without memory issues.
 
----
-
 ## 🔥 Common Use Cases
 
 - Generating large or infinite sequences (e.g., Fibonacci, primes)
 - Processing files line by line
 - Creating custom iterators for complex data structures
 - Streaming data processing
-
----
 
 ## 🧮 Examples
 
@@ -109,8 +97,6 @@ for _ in range(5):
     print(next(counter))  # 0, 1, 2, 3, 4
 ```
 
----
-
 ## 📝 Generator Expressions
 
 Similar to list comprehensions, but use parentheses `()`:
@@ -120,8 +106,6 @@ squares = (x*x for x in range(5))
 for sq in squares:
     print(sq)  # 0, 1, 4, 9, 16
 ```
-
----
 
 ## 🗝️ Key Points
 

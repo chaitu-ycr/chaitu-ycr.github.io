@@ -2,8 +2,6 @@
 
 Tuples are a fundamental, immutable data structure in Python, used to store ordered collections of items.
 
----
-
 ## 📝 Key Characteristics
 
 | Feature         | Description                                                                 |
@@ -15,8 +13,6 @@ Tuples are a fundamental, immutable data structure in Python, used to store orde
 | **Slicing**     | Extract portions using `[start:end:step]`.                                   |
 | **Hashable**    | Usable as dictionary keys if all elements are hashable.                      |
 
----
-
 ## 🛠️ Creating Tuples
 
 ```python
@@ -27,8 +23,6 @@ empty = ()
 coords = 1, 2, 3    # Parentheses are optional, but recommended
 ```
 
----
-
 ## 🔍 Accessing Elements
 
 ```python
@@ -37,8 +31,6 @@ last_number = numbers[-1]   # 3
 subtuple = fruits[1:3]      # ("🍌", "🍒")
 ```
 
----
-
 ## 🚫 Immutability
 
 Tuples cannot be changed after creation:
@@ -46,8 +38,6 @@ Tuples cannot be changed after creation:
 ```python
 fruits[0] = "🥭"  # TypeError: 'tuple' object does not support item assignment
 ```
-
----
 
 ## 🔄 Common Operations
 
@@ -61,16 +51,12 @@ fruits[0] = "🥭"  # TypeError: 'tuple' object does not support item assignment
 | Count                    | `fruits.count("🍎")`            | `1`                                   |
 | Index                    | `fruits.index("🍌")`            | `1`                                   |
 
----
-
 ## 🔁 Looping
 
 ```python
 for fruit in fruits:
     print(fruit)
 ```
-
----
 
 ## 🧩 Tuple Unpacking
 
@@ -81,8 +67,6 @@ point = (3, 4)
 x, y = point  # x = 3, y = 4
 ```
 
----
-
 ## ⚡ Tuple Comprehension
 
 > Parentheses with a comprehension create a generator, not a tuple.
@@ -91,8 +75,6 @@ x, y = point  # x = 3, y = 4
 squares = (i**2 for i in range(10))  # generator
 squares_tuple = tuple(i**2 for i in range(10))  # tuple
 ```
-
----
 
 ## 🏷️ Named Tuples
 
@@ -106,8 +88,6 @@ alice = Person("Alice", 30)
 print(alice.name)  # Alice
 ```
 
----
-
 ## 🗺️ Tuples as Dictionary Keys
 
 Tuples can be dictionary keys if all elements are hashable:
@@ -116,16 +96,12 @@ Tuples can be dictionary keys if all elements are hashable:
 locations = { (40.7128, -74.0060): "New York", (51.5074, -0.1278): "London" }
 ```
 
----
-
 ## 🧠 When to Use Tuples
 
 - When you need a collection that should not change.
 - To represent fixed data sets or configuration values.
 - As dictionary keys.
 - For unpacking multiple values at once.
-
----
 
 ## 🖼️ Tuple Structure (Mermaid Diagram)
 
@@ -139,8 +115,6 @@ graph TD
     style C fill:#bbf,stroke:#333
     style D fill:#bbf,stroke:#333
 ```
-
----
 
 ## 📝 Summary
 

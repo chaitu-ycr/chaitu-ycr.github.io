@@ -4,14 +4,10 @@
 
 Decorators are a powerful and flexible design pattern in Python that allow you to **modify or enhance the behavior of functions or classes** without permanently changing their source code. They are widely used for logging, authentication, error handling, caching, and more.
 
----
-
 ## ❓ What is a Decorator?
 
 - A **decorator** is a function that takes another function (or class) as an argument and returns a new function with added or altered behavior.
 - Decorators help keep code **clean, DRY (Don't Repeat Yourself), and reusable**.
-
----
 
 ## 🛠️ How Decorators Work
 
@@ -46,8 +42,6 @@ def my_function():
 my_function = decorator_function(my_function)
 ```
 
----
-
 ## 🧑‍💻 Example 1: Simple Decorator
 
 ```python
@@ -68,8 +62,6 @@ say_hello()
 # Hello from the decorated function!
 # After function call
 ```
-
----
 
 ## 🧑‍💻 Example 2: Decorator with Arguments
 
@@ -93,8 +85,6 @@ greet()
 # Hello!
 ```
 
----
-
 ## 🧑‍💻 Example 3: Decorator for Logging
 
 ```python
@@ -115,8 +105,6 @@ add(2, 3)
 # Calling add with (2, 3) {}
 # add returned 5
 ```
-
----
 
 ## 🧑‍💻 Example 4: Stacking Multiple Decorators
 
@@ -142,8 +130,6 @@ print(greet("world"))
 # Output: HELLO WORLD!
 ```
 
----
-
 ## 🧠 Explanation Table
 
 | Component         | Description                                                                 |
@@ -153,8 +139,6 @@ print(greet("world"))
 | `@decorator`      | Syntactic sugar for applying the decorator                                  |
 | Decorator with Args | Decorator that itself takes arguments and returns a decorator             |
 | Stacked Decorators | Multiple decorators applied to a single function                           |
-
----
 
 ## ⚡ Common Use Cases
 
@@ -166,8 +150,6 @@ print(greet("world"))
 | **Caching**                | Store results of expensive function calls                                   |
 | **Performance Measurement**| Measure and log execution time                                              |
 
----
-
 ## 🏗️ Decorator Flow (Mermaid Diagram)
 
 ```mermaid
@@ -178,8 +160,6 @@ flowchart TD
     C -->|Returns| E[Modified Behavior]
 ```
 
----
-
 ## 🏷️ Key Points
 
 - Decorators **modify or enhance** function/class behavior without changing their source code.
@@ -187,8 +167,6 @@ flowchart TD
 - The `@` syntax is a concise and readable way to apply decorators.
 - Decorators can be **stacked** (multiple decorators on a single function).
 - Decorators can accept their own arguments by adding another level of function nesting.
-
----
 
 ## 📚 Summary Table
 
@@ -200,7 +178,5 @@ flowchart TD
 | Use Cases              | Logging, auth, error handling, caching, timing   |
 | Arguments              | Decorators can accept arguments                  |
 | Stacking               | Multiple decorators can be applied               |
-
----
 
 > Decorators are a cornerstone of Python's expressive power—mastering them will make your code more modular, readable, and efficient.

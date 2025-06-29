@@ -2,8 +2,6 @@
 
 Loops are fundamental for repeating actions in Python. The two main types are `for` and `while` loops. Python also provides control flow statements like `break`, `continue`, and `pass` to manage loop execution.
 
----
-
 ## 🌀 1. For Loops
 
 A `for` loop iterates over sequences (like lists, tuples, or strings) and executes a block of code for each item.
@@ -17,8 +15,6 @@ for fruit in fruits:
 ```
 - Iterates over the `fruits` list, printing each fruit.
 
----
-
 ### 🔢 Looping with Index
 
 ```python
@@ -28,8 +24,6 @@ for index, number in enumerate(numbers):
 ```
 - Uses `enumerate()` to get both index and value in each iteration.
 
----
-
 ### 📏 Looping over a Range
 
 ```python
@@ -37,8 +31,6 @@ for i in range(5):  # Range from 0 (inclusive) to 5 (exclusive)
     print(i)
 ```
 - `range(n)` generates numbers from 0 to n-1.
-
----
 
 ### 🧩 For-Else Loop
 
@@ -52,8 +44,6 @@ else:
 ```
 - The `else` clause runs only if the loop completes without a `break`.
 
----
-
 ## 🔄 2. While Loops
 
 A `while` loop repeatedly executes a block of code as long as a condition is true.
@@ -65,8 +55,6 @@ while count < 5:
     count += 1  # Increment count by 1
 ```
 - Runs as long as `count < 5`, printing and incrementing `count` each time.
-
----
 
 ## 🛑 3. Control Flow Statements
 
@@ -89,8 +77,6 @@ for number in range(10):
 ```
 - Prints numbers 0 to 4, then breaks when 5 is found.
 
----
-
 ### ⏭️ continue
 
 - Skips the current iteration and moves to the next.
@@ -103,8 +89,6 @@ for number in range(10):
 ```
 - Prints only odd numbers (1, 3, 5, 7, 9).
 
----
-
 ### ⏸️ pass
 
 - Does nothing; acts as a placeholder.
@@ -114,8 +98,6 @@ for number in range(5):
     pass  # Placeholder, no action
 print("Loop finished!")
 ```
-
----
 
 ## 🗺️ 4. Loop Structure Overview (Mermaid Diagram)
 
@@ -138,8 +120,6 @@ flowchart TD
     WhileLoop -- No --> End
 ```
 
----
-
 ## 📝 5. Summary Table
 
 | Loop Type   | Use Case                                 | Example Syntax                |
@@ -149,7 +129,5 @@ flowchart TD
 | `break`     | Exit the loop                            | `break`                       |
 | `continue`  | Skip to next iteration                   | `continue`                    |
 | `pass`      | Placeholder, does nothing                | `pass`                        |
-
----
 
 Use these constructs to control the flow of your programs efficiently! 🚀

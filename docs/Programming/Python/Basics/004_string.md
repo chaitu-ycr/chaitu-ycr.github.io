@@ -2,8 +2,6 @@
 
 Strings are fundamental data structures used to represent sequences of characters. They can store text, numbers (as text), symbols, and more.
 
----
-
 ## ✨ Creating Strings
 
 You can create strings in Python using single, double, or triple quotes:
@@ -23,8 +21,6 @@ multiline_text = """This is a string
 that spans multiple lines."""
 ```
 
----
-
 ## 🔢 String Indexing & Slicing
 
 Strings are sequences of characters, where each character has an index.
@@ -43,8 +39,6 @@ last_letter = name[-1]  # 'a'
 greeting = "Hello, 🌏!"
 substring = greeting[7:9]  # '🌏!'
 ```
-
----
 
 ## 🛠️ String Operations
 
@@ -68,8 +62,6 @@ echo = "Hi! " * 3
 print(echo)  # Output: Hi! Hi! Hi!
 ```
 
----
-
 ## 🧩 String Formatting
 
 | Method         | Example                                               | Output                                 |
@@ -90,8 +82,6 @@ print(greeting)
 legacy = "Hello, %s!" % name
 print(legacy)
 ```
-
----
 
 ## 🧰 Common String Methods
 
@@ -123,8 +113,6 @@ print(line.startswith(' Hi'))
 print(line.endswith('old'))
 ```
 
----
-
 ## 🧭 String Immutability
 
 Strings in Python are **immutable**. Once created, their contents cannot be changed.
@@ -134,8 +122,6 @@ s = "hello"
 # s[0] = 'H'  # ❌ This will raise an error!
 s = "Hello"   # ✔️ You can assign a new string to the variable
 ```
-
----
 
 ## 🗺️ String Memory Layout (Mermaid Diagram)
 
@@ -148,8 +134,6 @@ graph LR
     classDef char fill:#f9f,stroke:#333,stroke-width:1px;
     class A,B,C,D,E char;
 ```
-
----
 
 ## 📝 Summary Table
 

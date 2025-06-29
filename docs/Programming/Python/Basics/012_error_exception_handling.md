@@ -2,16 +2,12 @@
 
 In Python, **errors** and **exceptions** are mechanisms to handle unexpected situations during program execution. They help prevent your program from crashing and allow you to recover gracefully or provide meaningful feedback.
 
----
-
 ## 🧩 Types of Errors
 
 | Type            | Description                                                                 | Example                |
 |-----------------|-----------------------------------------------------------------------------|------------------------|
 | **Syntax Error**| Violation of Python grammar rules, detected before execution.               | `print("Hello"`        |
 | **Exception**   | Runtime error occurring during execution (e.g., division by zero, file not found). | `10 / 0`               |
-
----
 
 ## ⚙️ Exception Handling Structure
 
@@ -30,8 +26,6 @@ except ZeroDivisionError:
 - `except`: Handles the specified exception.
 - Multiple `except` blocks can be used for different exceptions.
 
----
-
 ## 🔄 `else` and `finally` Clauses
 
 - **`else`**: Executes if no exception occurs in the `try` block.
@@ -47,8 +41,6 @@ else:
 finally:
     print("This always runs.")
 ```
-
----
 
 ## 🏷️ Common Exceptions
 
@@ -73,8 +65,6 @@ except Exception as e:
     print(f"An unexpected error occurred: {e}")
 ```
 
----
-
 ## 🚨 Raising Exceptions
 
 You can intentionally raise exceptions using the `raise` statement.
@@ -91,8 +81,6 @@ except ValueError as e:
     print(f"Validation error: {e}")
 ```
 
----
-
 ## 📝 Best Practices
 
 - Use specific `except` blocks for different exception types.
@@ -100,8 +88,6 @@ except ValueError as e:
 - Use `finally` for cleanup (e.g., closing files or releasing resources).
 - Document custom exceptions and when to raise them.
 - Log exceptions for debugging in larger applications.
-
----
 
 ## 🗝️ Summary Table
 
@@ -112,8 +98,6 @@ except ValueError as e:
 | `else`          | Run if no exception occurs                           | `else: ...`                   |
 | `finally`       | Always run (cleanup)                                 | `finally: ...`                |
 | `raise`         | Manually trigger an exception                        | `raise Exception("msg")`      |
-
----
 
 ## 📚 Additional Resources
 

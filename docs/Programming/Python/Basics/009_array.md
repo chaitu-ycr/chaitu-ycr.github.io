@@ -2,8 +2,6 @@
 
 The `array` module provides a memory-efficient, fixed-size, homogeneous data structure for storing large collections of primitive numerical data types. It is built-in and useful when you need efficient storage and manipulation of numbers, but is less flexible than Python lists and less feature-rich than NumPy arrays.
 
----
-
 ## ✨ Key Features
 
 | Feature             | Description                                                                 |
@@ -12,8 +10,6 @@ The `array` module provides a memory-efficient, fixed-size, homogeneous data str
 | **Fixed Size**      | Size is defined at creation and cannot be resized                           |
 | **Homogeneous Data**| All elements must be of the same data type, specified by a typecode         |
 | **Fast Operations** | Faster than lists for certain numerical operations                          |
-
----
 
 ## 🔤 Common Typecodes
 
@@ -30,8 +26,6 @@ The `array` module provides a memory-efficient, fixed-size, homogeneous data str
 | `'f'`    | float          | float       | Floating point       | 1.0, -2.5           |
 | `'d'`    | double         | float       | Double precision     | 1.0, -2.5           |
 
----
-
 ## 🛠️ Creating Arrays
 
 ```python
@@ -47,8 +41,6 @@ float_array = array('f', [1.5, 2.3, 4.1])
 byte_array = array('B', [10, 20, 30, 255])
 ```
 
----
-
 ## 🔍 Accessing and Modifying Elements
 
 ```python
@@ -61,8 +53,6 @@ print(int_array)  # Output: array('i', [1, 10, 3, 4])
 
 # Arrays are fixed-size; you cannot change their length after creation.
 ```
-
----
 
 ## 🧰 Common Methods
 
@@ -98,8 +88,6 @@ last = int_array.pop()
 lst = int_array.tolist()
 ```
 
----
-
 ## 📊 Array vs List vs NumPy
 
 | Feature          | `array` module | `list`      | `numpy.ndarray` |
@@ -110,15 +98,11 @@ lst = int_array.tolist()
 | Fast math ops    | ❌            | ❌          | ✅              |
 | Advanced features| ❌            | ❌          | ✅              |
 
----
-
 ## 🧑‍💻 When to Use the `array` Module
 
 - For memory-efficient storage of large collections of primitive numerical data types.
 - When you need homogeneous, fixed-size arrays and do not require advanced numerical operations.
 - Not recommended for frequent resizing or mixed data types—use lists or NumPy arrays instead.
-
----
 
 ## 📝 Additional Notes
 

@@ -2,8 +2,6 @@
 
 Documenting your code is essential for readability, maintainability, and collaboration. In Python, documentation is achieved through **comments** and **docstrings**. This guide covers both, including best practices, conventions, and practical examples.
 
----
-
 ## 🗨️ Comments
 
 Comments are ignored by the Python interpreter and are meant for human readers. They help explain the code's functionality, logic, or non-obvious sections.
@@ -44,8 +42,6 @@ for i in range(10):
 - ✅ Use comments for complex logic, non-obvious algorithms, or edge cases.
 - ✅ Prefer clear variable and function names over excessive commenting.
 - ❌ Avoid redundant comments that restate the code.
-
----
 
 ## 📄 Docstrings
 
@@ -135,8 +131,6 @@ Functions:
 - The first line should be a short summary.
 - Leave a blank line after the summary, then add details.
 
----
-
 ## 🛠️ Comments vs. Docstrings
 
 | Feature           | Comments                | Docstrings                |
@@ -147,10 +141,6 @@ Functions:
 | Access at runtime | No                      | Yes (`help()`, `__doc__`) |
 | Used by tools     | No                      | Yes (Sphinx, IDEs, etc.)  |
 
----
-
----
-
 ## 🚀 Benefits of Good Documentation
 
 - **Improved Readability:** Easier for others (and your future self) to understand.
@@ -158,8 +148,6 @@ Functions:
 - **Collaboration:** Helps teams work together efficiently.
 - **Automatic Documentation Generation:** Tools like Sphinx can generate docs from docstrings.
 - **Code Reusability:** Clear docstrings help others use your code effectively.
-
----
 
 > **Tip:**
 > Use meaningful names for variables and functions to reduce the need for comments and to make your code self-documenting.

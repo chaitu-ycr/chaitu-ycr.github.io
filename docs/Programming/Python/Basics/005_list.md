@@ -2,8 +2,6 @@
 
 Lists are a fundamental data structure in Python used to store collections of items in an **ordered** and **changeable** way.
 
----
-
 ## 📦 Creating Lists
 
 - Use square brackets `[]` and separate items with commas.
@@ -16,8 +14,6 @@ mixed_list = ["hello", 10, True]
 empty_list = []
 nested_list = [[1, 2], [3, 4]]
 ```
-
----
 
 ## 🔎 Accessing Elements
 
@@ -34,8 +30,6 @@ first_fruit = fruits[0]      # "🍎"
 last_number = numbers[-1]    # 4.5
 ```
 
----
-
 ## ✂️ Slicing Lists
 
 - Extract a portion of a list using `[start:end:step]`.
@@ -45,8 +39,6 @@ last_number = numbers[-1]    # 4.5
 | `list[1:3]`     | Elements at 1 and 2       | `fruits[1:3]`     | `["🍌", "🍒"]`         |
 | `list[::2]`     | Every second element      | `fruits[::2]`     | `["🍎", "🍒"]`         |
 | `list[::-1]`    | Reverse the list          | `fruits[::-1]`    | `["🍒", "🍌", "🍎"]`    |
-
----
 
 ## 🛠️ Modifying Lists
 
@@ -65,8 +57,6 @@ fruits.insert(1, "🥑")   # Insert at index 1
 fruits[1] = "🥭"         # Replace element at index 1
 ```
 
----
-
 ## 🗑️ Removing Elements
 
 | Method                | Description                          |
@@ -83,8 +73,6 @@ fruits.clear()
 del fruits[0]
 ```
 
----
-
 ## 📋 Copying and Extending Lists
 
 | Method                | Description                          |
@@ -99,8 +87,6 @@ fruits_copy.extend(["🍊", "🍋"])
 combined = fruits + numbers
 ```
 
----
-
 ## ➕ List Operations
 
 | Operation             | Example                | Result/Description      |
@@ -109,8 +95,6 @@ combined = fruits + numbers
 | Membership            | `"🥭" in fruits`        | `True`/`False`         |
 | Concatenation         | `fruits + numbers`     | New combined list      |
 | Repetition            | `fruits * 2`           | Repeat list            |
-
----
 
 ## 🧰 Useful List Methods
 
@@ -128,8 +112,6 @@ fruits.reverse()
 fruits.sort()
 ```
 
----
-
 ## 🧮 List Comprehensions
 
 - Compact way to create lists.
@@ -139,16 +121,12 @@ squares = [i**2 for i in range(10)]
 evens = [x for x in range(20) if x % 2 == 0]
 ```
 
----
-
 ## 🔁 Traversing Lists
 
 ```python
 for fruit in fruits:
     print(fruit)
 ```
-
----
 
 ## 🔃 Sorting Lists
 
@@ -165,8 +143,6 @@ random_numbers.sort(reverse=True)
 random_numbers.sort(key=lambda x: x % 10)  # Sort by last digit
 ```
 
----
-
 ## 🗂️ Nested Lists
 
 - Lists can contain other lists (useful for matrices, grids, etc.)
@@ -180,8 +156,6 @@ matrix = [
 print(matrix[1][2])  # 6
 ```
 
----
-
 ## 🗺️ Visualizing List Operations
 
 ```mermaid
@@ -192,8 +166,6 @@ flowchart TD
     D --> E[Sort/Reverse]
     E --> F[Traverse/Comprehend]
 ```
-
----
 
 ## 📝 Key Points
 

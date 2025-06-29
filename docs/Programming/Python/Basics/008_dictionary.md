@@ -2,8 +2,6 @@
 
 Dictionaries are fundamental data structures in Python that store collections of items as **key-value** pairs. They allow fast lookups and flexible data organization by associating unique, immutable keys with values of any data type.
 
----
-
 ## ✨ Key Features
 
 | Feature        | Description                                                                 |
@@ -13,8 +11,6 @@ Dictionaries are fundamental data structures in Python that store collections of
 | **Values**     | Any data type (strings, numbers, lists, other dictionaries, etc.)           |
 | **Mutability** | Dictionaries are mutable; you can add, modify, or remove items after creation|
 | **Order**      | Preserves insertion order (Python 3.7+)                                     |
-
----
 
 ## 🛠️ Basic Operations
 
@@ -26,8 +22,6 @@ Dictionaries are fundamental data structures in Python that store collections of
 | **Delete**       | `del d["b"]`                | Remove key `"b"` and its value     |
 | **Check key**    | `"a" in d`                  | Returns `True` if key exists       |
 | **Length**       | `len(d)`                    | Number of key-value pairs          |
-
----
 
 ## 📋 Common Methods
 
@@ -41,8 +35,6 @@ Dictionaries are fundamental data structures in Python that store collections of
 | `popitem()`             | Removes and returns the last inserted key-value pair      |
 | `clear()`               | Removes all items                                         |
 | `update(other_dict)`    | Updates with key-value pairs from another dictionary      |
-
----
 
 ## 🧑‍💻 Examples
 
@@ -84,8 +76,6 @@ defaults.update(settings)
 print(defaults)  # {'theme': 'dark', 'language': 'en'}
 ```
 
----
-
 ## 🔄 Iteration
 
 ```python
@@ -102,15 +92,11 @@ for value in person.values():
     print(value)
 ```
 
----
-
 ## 🧩 When to Use Dictionaries
 
 - Associate data with unique identifiers or labels.
 - Store configuration settings, user preferences, or mappings.
 - Build complex data structures (e.g., nested dictionaries).
-
----
 
 ## 🗂️ Structure (Mermaid Diagram)
 
@@ -121,8 +107,6 @@ graph TD
     A --> C["Key 2: Value 2"]
     A --> D["Key 3: Value 3"]
 ```
-
----
 
 ## 📝 Key Points
 

@@ -3,8 +3,6 @@
 ## 🤔 What is an Iterator?
 An **iterator** is an object that enables you to traverse a collection one element at a time, without loading the entire collection into memory. This is especially useful for large datasets or when you want to process elements sequentially.
 
----
-
 ## 🔄 Iterable vs. Iterator
 
 | Term         | Description                                                                 | Examples                        |
@@ -12,15 +10,11 @@ An **iterator** is an object that enables you to traverse a collection one eleme
 | **Iterable** | An object capable of returning its members one at a time. Implements `__iter__()`. | Lists, Tuples, Strings, Dictionaries, Sets |
 | **Iterator** | An object representing a stream of data; returns data one element at a time via `next()`. Implements both `__iter__()` and `__next__()`. | Objects returned by `iter()`    |
 
----
-
 ## 🧩 The Iterator Protocol
 
 To be an iterator, an object must implement:
 - `__iter__(self)`: Returns the iterator object itself.
 - `__next__(self)`: Returns the next element. Raises `StopIteration` when no more elements.
-
----
 
 ## 🛠️ Using Iterators
 
@@ -49,8 +43,6 @@ for number in numbers:
 2. Repeatedly calls `next()` on the iterator.
 3. Stops when `StopIteration` is raised.
 
----
-
 ## 🧑‍💻 Custom Iterators
 
 You can create custom iterators by defining a class with `__iter__` and `__next__`:
@@ -73,8 +65,6 @@ class CountDown:
 for num in CountDown(3):
     print(num)  # Output: 3, 2, 1
 ```
-
----
 
 ## 📄 Iterators in Practice
 
@@ -103,8 +93,6 @@ for num in fibonacci(10):
     print(num)  # Output: 0, 1, 1, 2, 3, 5, 8
 ```
 
----
-
 ## ⚡ Benefits of Using Iterators
 
 | Benefit           | Description                                                                 |
@@ -113,16 +101,12 @@ for num in fibonacci(10):
 | Lazy Evaluation   | Elements are generated only when needed (e.g., generators).                 |
 | Flexibility       | Works with any data structure that supports iteration.                      |
 
----
-
 ## 📚 Common Use Cases
 
 - Iterating over elements in lists, tuples, strings, dictionaries, and sets.
 - Processing files line by line.
 - Creating custom sequences using generator expressions or functions.
 - Infinite sequences (e.g., `itertools.count`).
-
----
 
 ## 📝 Summary Table
 

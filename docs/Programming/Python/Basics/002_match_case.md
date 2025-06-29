@@ -2,8 +2,6 @@
 
 The `match-case` statement, introduced in Python 3.10, provides a powerful and readable way to perform pattern matching and conditional branching. It is especially useful for replacing complex `if-elif-else` chains and for working with structured data.
 
----
-
 ## 📚 Overview
 
 | Feature         | Description                                                                 |
@@ -13,8 +11,6 @@ The `match-case` statement, introduced in Python 3.10, provides a powerful and r
 | Alternative to  | `if-elif-else` chains                                                       |
 | Use Cases       | Matching literals, structures, class instances, and more                    |
 | Compatibility   | Not available in Python < 3.10                                              |
-
----
 
 ## 📝 Syntax & Components
 
@@ -34,15 +30,11 @@ match expression:
 | `case pattern`      | Each `case` defines a pattern to match (literal, variable, structure, etc.).                        |
 | `case _`            | Wildcard (catch-all) pattern, executed if no other pattern matches.                                 |
 
----
-
 ## 🎯 When to Use match-case
 
 - Multiple conditions based on a single value or structure.
 - Complex patterns or comparisons.
 - Improved code readability and maintainability.
-
----
 
 ## ⚠️ Considerations
 
@@ -52,8 +44,6 @@ match expression:
 | Backward Compatibility                  | Use `if-elif-else` for older Python versions                            |
 | Not Always a Replacement                | Use the approach that best fits your use case                           |
 
----
-
 ## 🌟 Advantages
 
 | Advantage             | Description                                                                 |
@@ -61,8 +51,6 @@ match expression:
 | Readability           | Simplifies complex conditional logic                                        |
 | Exhaustiveness        | Some IDEs can check for unused patterns                                     |
 | Pattern Matching      | Easily match and destructure data structures                                |
-
----
 
 ## 🧩 Pattern Matching Capabilities
 
@@ -75,8 +63,6 @@ match expression:
 | Class                | `case Point(x, y):`                      | Matches class instances and extracts attributes  |
 | OR Pattern           | `case 1 | 2 | 3:`                        | Matches any of the listed values                 |
 | Wildcard             | `case _:`                                | Matches anything (default/catch-all)             |
-
----
 
 ## 🧑‍💻 Examples
 
@@ -123,8 +109,6 @@ match person:
         print("Unknown format")
 ```
 
----
-
 ## 🗂️ Visual Flow
 
 ```mermaid
@@ -134,8 +118,6 @@ flowchart TD
     B --> C2[case pattern2<br>if match: execute block]
     B --> C3[case _<br>if no match: execute block]
 ```
-
----
 
 ## 🔗 References
 
