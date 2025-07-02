@@ -123,18 +123,6 @@ s = "hello"
 s = "Hello"   # ✔️ You can assign a new string to the variable
 ```
 
-## 🗺️ String Memory Layout (Mermaid Diagram)
-
-```mermaid
-graph LR
-    A["H"] --> B["e"]
-    B --> C["l"]
-    C --> D["l"]
-    D --> E["o"]
-    classDef char fill:#f9f,stroke:#333,stroke-width:1px;
-    class A,B,C,D,E char;
-```
-
 ## 📝 Summary Table
 
 | Feature           | Example                      | Description                      |
@@ -147,3 +135,11 @@ graph LR
 | Formatting        | `f"Hi {name}"`               | Insert variables                 |
 | Methods           | `s.upper()`, `s.strip()`     | Common operations                |
 | Immutability      | `s[0] = 'H' # Error`         | Cannot change in-place           |
+
+## 🧪 Practice Exercises
+
+1. Create a string that contains your full name and print it.
+2. Write a program that takes a sentence and counts the number of words in it.
+3. Implement a function that checks if a given string is a palindrome (reads the same forwards and backwards).
+4. Create a program that formats a list of names into a comma-separated string.
+5. Write a function that takes a string and returns a new string with all vowels removed.

@@ -156,17 +156,6 @@ matrix = [
 print(matrix[1][2])  # 6
 ```
 
-## 🗺️ Visualizing List Operations
-
-```mermaid
-flowchart TD
-    A[Create List] --> B[Access/Modify]
-    B --> C[Add/Remove]
-    C --> D[Copy/Extend]
-    D --> E[Sort/Reverse]
-    E --> F[Traverse/Comprehend]
-```
-
 ## 📝 Key Points
 
 - Lists are versatile and can store various data types.
@@ -174,3 +163,16 @@ flowchart TD
 - Lists are mutable and support many methods for manipulation.
 - List comprehensions offer concise ways to create new lists.
 - Nested lists allow for multi-dimensional data storage.
+
+## 🧪 Practice Exercises
+
+1. Create a list of your favorite movies and print each movie.
+2. Write a program that takes a list of numbers and returns a new list with only the even numbers.
+3. Implement a function that takes a list of strings and returns a new list with the lengths of each string.
+4. Create a nested list representing a 3x3 grid and print each row.
+5. Write a program that sorts a list of names alphabetically and prints the sorted list.
+6. Create a list of random integers and find the maximum and minimum values in the list.
+7. Implement a function that takes a list of integers and returns the sum of all elements.
+8. Create a program that merges two lists into one, removing duplicates.
+9. Write a function that takes a list of numbers and returns a new list with the squares of each number.
+10. Create a program that checks if a given item is in a list and prints its index if found.

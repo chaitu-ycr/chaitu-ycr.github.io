@@ -99,27 +99,6 @@ for number in range(5):
 print("Loop finished!")
 ```
 
-## 🗺️ 4. Loop Structure Overview (Mermaid Diagram)
-
-```mermaid
-flowchart TD
-    Start([Start])
-    ForLoop{For Loop?}
-    WhileLoop{While Loop?}
-    Action1[Execute for-loop body]
-    Action2[Execute while-loop body]
-    Condition1{Condition True?}
-    End([End])
-
-    Start --> ForLoop
-    ForLoop -- Yes --> Action1 --> Condition1
-    Condition1 -- Yes --> Action1
-    Condition1 -- No --> End
-    ForLoop -- No --> WhileLoop
-    WhileLoop -- Yes --> Action2 --> Condition1
-    WhileLoop -- No --> End
-```
-
 ## 📝 5. Summary Table
 
 | Loop Type   | Use Case                                 | Example Syntax                |
@@ -131,3 +110,12 @@ flowchart TD
 | `pass`      | Placeholder, does nothing                | `pass`                        |
 
 Use these constructs to control the flow of your programs efficiently! 🚀
+
+## 🧪 Practice Exercises
+
+1. Create a program that prints numbers from 1 to 20, but skips multiples of 3.
+2. Write a function that takes a list of names and prints each name with its length.
+3. Implement a countdown timer using a `while` loop that counts down from 10 to 0, printing each number.
+4. Create a program that finds the first even number in a list and breaks out of the loop when found.
+5. Write a program that uses a `for` loop to calculate the factorial of a number provided by the user.
+6. Implement a program that prints the Fibonacci sequence up to a specified number using a `while` loop.

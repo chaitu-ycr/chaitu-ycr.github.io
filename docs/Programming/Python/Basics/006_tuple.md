@@ -103,19 +103,6 @@ locations = { (40.7128, -74.0060): "New York", (51.5074, -0.1278): "London" }
 - As dictionary keys.
 - For unpacking multiple values at once.
 
-## 🖼️ Tuple Structure (Mermaid Diagram)
-
-```mermaid
-graph TD
-    A[Tuple] --> B[Element 0]
-    A --> C[Element 1]
-    A --> D[Element 2]
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style B fill:#bbf,stroke:#333
-    style C fill:#bbf,stroke:#333
-    style D fill:#bbf,stroke:#333
-```
-
 ## 📝 Summary
 
 - Tuples are ordered, immutable collections.
@@ -123,3 +110,13 @@ graph TD
 - Useful for fixed data sets, configuration, and as dictionary keys.
 - Use `tuple()` to convert other iterables.
 - Use named tuples for more readable code.
+
+## 🧪 Practice Exercises
+
+1. Create a tuple of your favorite movies and print each movie using a loop.
+2. Write a function that takes a tuple of numbers and returns the sum of all elements.
+3. Implement a function that takes a tuple of coordinates and returns the distance from the origin (0, 0).
+4. Create a program that unpacks a tuple of RGB values and prints them in a formatted string.
+5. Write a function that takes a tuple of strings and returns a new tuple with the lengths of each string.
+6. Create a tuple of mixed data types (integers, strings, floats) and demonstrate how to access each element.
+7. Implement a function that takes a tuple of tuples (representing points) and returns a list of distances from the origin for each point.

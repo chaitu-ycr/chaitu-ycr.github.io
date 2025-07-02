@@ -62,23 +62,6 @@ else:
 | 80 - 89     | 🅱️ Great job! You got a B.                 |
 | 70 - 79     | 🆗 Keep studying! You got a C or below.     |
 
-## 🌳 Flowchart
-
-```mermaid
-flowchart TD
-    A[Start] --> B{grade == 100?}
-    B -- Yes --> C[Perfect score! 🎉]
-    B -- No --> D{grade >= 90?}
-    D -- Yes --> E[Excellent! You got an A.]
-    D -- No --> F{grade >= 80?}
-    F -- Yes --> G[Great job! You got a B.]
-    F -- No --> H[Keep studying! You got a C or below.]
-    C --> I[End]
-    E --> I
-    G --> I
-    H --> I
-```
-
 ## 🛠️ Tips
 
 | 💡 Tip | Description |

@@ -109,17 +109,10 @@ match person:
         print("Unknown format")
 ```
 
-## 🗂️ Visual Flow
+## 🧪 Practice Exercises
 
-```mermaid
-flowchart TD
-    A[Start] --> B{match expression}
-    B --> C1[case pattern1<br>if match: execute block]
-    B --> C2[case pattern2<br>if match: execute block]
-    B --> C3[case _<br>if no match: execute block]
-```
+1. Create a program that matches different types of vehicles (car, bike, truck) and prints a message based on the type.
+2. Write a function that takes a list of tuples representing coordinates and uses `match-case` to classify them as points on the axes or in quadrants.
+3. Implement a simple calculator using `match-case` to handle different operations (addition, subtraction, multiplication, division) based on user input.
+4. Create a program that matches different shapes (circle, square, rectangle) and calculates their area based on the provided dimensions.
 
-## 🔗 References
-
-- [PEP 634 – Structural Pattern Matching](https://peps.python.org/pep-0634/)
-- [Python Docs: match statement](https://docs.python.org/3/reference/compound_stmts.html#the-match-statement)

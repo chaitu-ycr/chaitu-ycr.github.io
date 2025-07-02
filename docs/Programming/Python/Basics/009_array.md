@@ -108,3 +108,16 @@ lst = int_array.tolist()
 
 - The `array` module is built-in but less commonly used than lists or NumPy arrays.
 - For most data science and numerical computing tasks, **NumPy arrays** are preferred due to their advanced features and performance.
+
+## 🧪 Practice Exercises
+
+1. Create an array of integers representing the first 10 natural numbers and print it.
+2. Write a function that takes an array of floats and returns the average value.
+3. Implement a program that reads a list of integers from user input, stores them in an array, and prints the maximum and minimum values.
+4. Create an array of bytes representing the ASCII values of the characters in a given string.
+5. Write a function that takes an array of integers and returns a new array containing only the even numbers.
+6. Implement a program that reads a binary file and loads its contents into an array of bytes.
+7. Create an array of signed integers and demonstrate the use of the `reverse()` method.
+8. Write a function that takes an array of integers and returns a new array with each element squared.
+9. Create an array of floats and demonstrate the use of the `tobytes()` method to convert it to bytes.
+10. Implement a program that reads a file containing a list of numbers (one per line), loads them into an array, and prints the sum of all numbers.

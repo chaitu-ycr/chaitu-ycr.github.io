@@ -98,16 +98,6 @@ for value in person.values():
 - Store configuration settings, user preferences, or mappings.
 - Build complex data structures (e.g., nested dictionaries).
 
-## 🗂️ Structure (Mermaid Diagram)
-
-```mermaid
-graph TD
-    A["Dictionary"]
-    A --> B["Key 1: Value 1"]
-    A --> C["Key 2: Value 2"]
-    A --> D["Key 3: Value 3"]
-```
-
 ## 📝 Key Points
 
 - Keys must be unique and immutable.
@@ -115,4 +105,11 @@ graph TD
 - Dictionaries are mutable and preserve insertion order.
 - Use built-in methods to add, remove, access, and iterate over elements.
 
----
+## 🧪 Practice Exercises
+
+1. Create a dictionary to store information about your favorite book (title, author, year, genre).
+2. Write a program that counts the frequency of each word in a given sentence and stores the results in a dictionary.
+3. Implement a function that takes a list of tuples (name, age) and returns a dictionary where names are keys and ages are values.
+4. Create a program that merges two dictionaries, where the second dictionary updates values of existing keys and adds new keys.
+5. Write a function that takes a dictionary and returns a new dictionary with keys sorted alphabetically.
+6. Create a dictionary that maps country names to their capitals and write a function to retrieve the capital of a given country.
