@@ -150,4 +150,10 @@ print(apply(str.upper, "hello"))  # Output: HELLO
 | Docstrings      | Enhance code readability and understanding                                  |
 | Modularity      | Functions help organize code into logical, manageable sections              |
 
----
+## 🧪 Practice Exercises
+
+1. Write a function called `square` that takes a number as an argument and returns its square.
+2. Create a function `count_vowels` that takes a string and returns the number of vowels in it.
+3. Implement a function `is_prime` that checks if a number is prime.
+4. Write a function `reverse_string` that takes a string and returns it reversed.
+5. Create a function `fibonacci` that returns the nth Fibonacci number.

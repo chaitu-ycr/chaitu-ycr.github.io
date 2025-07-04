@@ -180,3 +180,11 @@ flowchart TD
 | Stacking               | Multiple decorators can be applied               |
 
 > Decorators are a cornerstone of Python's expressive power—mastering them will make your code more modular, readable, and efficient.
+
+## 🧪 Practice Exercises
+
+1. Create a decorator that logs the execution time of a function.
+2. Implement a decorator that checks if a user is authenticated before allowing access to a function.
+3. Write a decorator that caches the results of a function to improve performance.
+4. Create a decorator that limits the number of times a function can be called.
+5. Implement a decorator that adds a prefix to the return value of a function.

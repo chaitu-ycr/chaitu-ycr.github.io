@@ -116,3 +116,10 @@ for num in fibonacci(10):
 | Usage           | Can be looped over | Returns next item on demand |
 | Example         | `[1, 2, 3]`      | `iter([1, 2, 3])`         |
 | Memory Usage    | May load all data | Loads one item at a time  |
+
+## 🧪 Practice Exercises
+
+1. Create a custom iterator class that generates the squares of numbers up to a given limit.
+2. Implement a generator function that yields the prime numbers up to a specified number.
+3. Write a function that takes an iterable and returns a list of its elements using an explicit iterator.
+4. Create a class that implements the iterator protocol for a Fibonacci sequence.

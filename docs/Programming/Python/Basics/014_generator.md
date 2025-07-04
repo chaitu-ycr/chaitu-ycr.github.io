@@ -113,3 +113,11 @@ for sq in squares:
 - Generators are memory-efficient and generate values only when needed.
 - Iterate over a generator using `next()` or a `for` loop.
 - Useful for custom iterators and processing large or infinite data streams.
+
+## 🧪 Practice Exercises
+
+1. Create a generator function that yields the first n even numbers.
+2. Implement a generator that produces an infinite sequence of Fibonacci numbers.
+3. Write a function that takes a list and returns a generator for its elements.
+4. Create a generator expression that yields the squares of numbers from 1 to 10.
+5. Implement a generator that reads a file line by line and yields each line.

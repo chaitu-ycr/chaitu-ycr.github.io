@@ -103,3 +103,11 @@ except ValueError as e:
 
 - [Python Official Docs: Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html)
 - [Real Python: Python Exceptions](https://realpython.com/python-exceptions/)
+
+## 🧪 Practice Exercises
+
+1. Write a function that takes a number and returns its reciprocal. Handle division by zero.
+2. Create a program that reads a file and prints its contents. Handle the case where the file does not exist.
+3. Implement a function that takes a list and returns the element at a given index. Handle `IndexError`.
+4. Write a function that takes a string and converts it to an integer. Handle `ValueError` if the string is not a valid number.
+5. Create a custom exception called `NegativeNumberError` that is raised when a negative number is encountered in a list.
